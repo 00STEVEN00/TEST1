@@ -1,7 +1,9 @@
 {
     "name" : "LeBronJames",
     "size" : 2.06,
-    "team" : "Lakers"
+    "team" : "Lakers",
+    "BestScore" : [61]
+
 }
 
 
